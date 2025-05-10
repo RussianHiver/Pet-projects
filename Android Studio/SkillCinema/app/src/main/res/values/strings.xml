@@ -1,0 +1,99 @@
+<resources>
+    <!-- viewpage strings  -->
+    <string name="app_name">SkillCinema</string>
+    <string name="number">1</string>
+    <string name="skipButton">Пропустить</string>
+    <string name="appName">Skillcinema</string>
+    <string name="explanation_Page1">Узнавай о премьерах</string>
+    <string name="explanation_Page2">Создавай коллекции</string>
+    <string name="explanation_Page3">Делись с друзьями</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Homepage strings -->
+    <string name="preview">Премьеры</string>
+    <string name="popular">Популярное</string>
+    <string name="usaAction">Боевики США</string>
+    <string name="topMovies">Топ-250</string>
+    <string name="frenchDramas">Драмы Франции</string>
+    <string name="tvSeries">Сериалы</string>
+    <string name="all">Все</string>
+
+    <!-- FilmPage strings -->
+    <string name="filmActorList">В фильме снимались</string>
+    <string name="filmStaffList">Над фильмом работали</string>
+    <string name="gallery">Галерея</string>
+    <string name="similarFilms">Похожие фильмы</string>
+    <string name="seasons">Сезоны</string>
+
+    <!-- String resources -->
+    <string name="film_year_and_genre"> %1$s, %2$s %3$s</string>
+    <string name="film_length">%1$d ч, %2$d мин</string>
+
+    <!-- ActorPage strings -->
+    <string name="best">Лучшее</string>
+    <string name="filmography_title">Фильмография</string>
+    <string name="filmography_all_button">К списку</string>
+
+    <!-- TVSeriesPage strings -->
+    <string name="seasons_and_episode">Сезоны и серии</string>
+    <string name="tvSeriesActorList">В сериале снимались</string>
+    <string name="tvSeriesStaffList">Над сериалом работали</string>
+    <string name="similarTVSeries">Похожие сериалы</string>
+
+    <!--  Item load state string  -->
+    <string name="retry">Retry</string>
+
+    <!-- Chip strings -->
+    <string name="chip_still_images">Кадры</string>
+    <string name="chip_shooting_images">Со съёмок</string>
+    <string name="chip_poster_images">Постеры</string>
+
+    <!-- Search page strings -->
+    <string name="search_hint">Фильмы</string>
+    <string name="search_country_hint">Введите страну</string>
+    <string name="search_genre_hint">Введите жанр</string>
+    <string name="no_search_result_text">К сожалению, по вашему запросу ничего не найдено</string>
+
+    <!-- Search filter page strings -->
+    <string name="filter_page_header">Настройки поиска</string>
+    <string name="filter_page_rating_select_title">Рейтинг</string>
+    <string name="filter_page_country_header">Страна</string>
+    <string name="filter_page_genre_header">Жанр</string>
+    <string name="filter_page_year_header">Период</string>
+    <string name="filter_select_all">Всё</string>
+    <string name="filter_select_films">Фильмы</string>
+    <string name="filter_select_TVseries">Сериалы</string>
+    <string name="filter_select_watch_type_title">Показывать</string>
+    <string name="filter_select_film_sort_title">Сортировать</string>
+    <string name="filter_select_date">Дата</string>
+    <string name="filter_select_popularity">Популярность</string>
+    <string name="filter_select_rating">Рейтинг</string>
+    <string name="filter_choose_country_title">Страна</string>
+    <string name="filter_choose_country_choice">Россия</string>
+    <string name="filter_choose_genre_title">Жанр</string>
+    <string name="filter_choose_genre_choice">Комедия</string>
+    <string name="filter_choose_year_title">Год</string>
+    <string name="filter_choose_year_choice">с 1998 до 2017</string>
+    <string name="filter_search_from_year">Искать в период с</string>
+    <string name="filter_search_to_year">Искать в период до</string>
+
+    <!-- Profile page strings -->
+    <string name="preview_profile">Просмотрено</string>
+    <string name="interested">Вам было интересно</string>
+    <string name="watch">Хочу посмотреть</string>
+    <string name="collection_amount">0</string>
+    <string name="collection_title">Коллекции</string>
+    <string name="create_collection">Создать свою коллекцию</string>
+    <string name="plus_button">Добавить коллекцию</string>
+    <string name="add_collection">Добавить в коллекцию</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="add_name_collection">Введите название вашей новой коллекции </string>
+    <string name="done">Готово</string>
+
+    <!-- Bottom sheet error -->
+    <string name="error">Ошибка!</string>
+    <string name="error_text">Проверьте соединение с интернетом и перезапустите приложение.</string>
+
+    <!-- Content description -->
+    <string name="back_button">Кнопка возврата на предыдущий экран</string>
+</resources>

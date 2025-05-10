@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_dimen">25dp</dimen>
+    <dimen name="list_names">20sp</dimen>
+    <dimen name="blue">15sp</dimen>
+    <dimen name="header_title_size">12sp</dimen>
+    <dimen name="header_height">56dp</dimen>
+    <dimen name="back_button_size">48dp</dimen>
+    <dimen name="film_page_button_size">34dp</dimen>
+    <dimen name="film_page_button_padding">8dp</dimen>
+    <dimen name="chip_text_size">18sp</dimen>
+</resources>
